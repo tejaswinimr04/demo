@@ -1,2 +1,2 @@
-str='python'
+str='python programing'
 print(bool(str))
